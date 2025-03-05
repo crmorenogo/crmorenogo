@@ -1,8 +1,8 @@
-![Banner](./github-header-image(1).png)
+![Banner](./github-header-image.png)
 
 ## 💻 Tecnologías y herramientas
-- ⚡ React, JavaScript, Next.js, Express, Firebase
-- 🔧 Linux (Fedora, Ubuntu, Linux Mint)
+- ⚡ React, JavaScript, Next.js, Express, PostgreSQL
+- 🔧 Linux (Linux Mint)
 - 🎮 Desarrollo de videojuegos
 
 ## 🔥 Proyectos Destacados
