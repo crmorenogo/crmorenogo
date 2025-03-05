@@ -1,12 +1,12 @@
 ![Banner](./github-header-image.png)
 
 ## 💻 Tecnologías y herramientas
-- ⚡ React, JavaScript, Next.js, Express, PostgreSQL
+- ⚡ Python, Java, PostgreSQL
 - 🔧 Linux (Linux Mint)
 - 🎮 Análisis de datos
 
 ## 🔥 Proyectos Destacados
-- **📘 App para la Gestión del tiempo** - Proyecto para la asignatura estructura de datos; buenas prácticas y documentación.
+- **📘 Ponderati** - Proyecto grupal donde los estudiantes pueden dejar comentarios y calificaciones sobre los profesores, permitiendo a otros conocer sus fortalezas y debilidades antes de inscribirse en sus cursos. De esta manera, los estudiantes pueden tomar decisiones más informadas al elegir a sus docentes.
 
 
 ¡Gracias por visitar mi perfil! 😊
