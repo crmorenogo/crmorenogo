@@ -6,7 +6,6 @@
 - 🎮 Desarrollo de videojuegos
 
 ## 🔥 Proyectos Destacados
-- **🎮 Twordle** - Un juego multijugador estilo Wordle en React y Firebase.
 - **📘 App para la Gestión del tiempo** - Proyecto para la asignatura estructura de datos; buenas prácticas y documentación.
 
 
