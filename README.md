@@ -3,7 +3,7 @@
 ## 💻 Tecnologías y herramientas
 - ⚡ React, JavaScript, Next.js, Express, PostgreSQL
 - 🔧 Linux (Linux Mint)
-- 🎮 Desarrollo de videojuegos
+- 🎮 Análisis de datos
 
 ## 🔥 Proyectos Destacados
 - **📘 App para la Gestión del tiempo** - Proyecto para la asignatura estructura de datos; buenas prácticas y documentación.
