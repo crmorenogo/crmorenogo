@@ -1,16 +1,13 @@
-## Hi there 👋
+![Banner](./github-header-image(1).png)
 
-<!--
-**crmorenogo/crmorenogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tecnologías y herramientas
+- ⚡ React, JavaScript, Next.js, Express, Firebase
+- 🔧 Linux (Fedora, Ubuntu, Linux Mint)
+- 🎮 Desarrollo de videojuegos
 
-Here are some ideas to get you started:
+## 🔥 Proyectos Destacados
+- **🎮 Twordle** - Un juego multijugador estilo Wordle en React y Firebase.
+- **📘 App para la Gestión del tiempo** - Proyecto para la asignatura estructura de datos; buenas prácticas y documentación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+¡Gracias por visitar mi perfil! 😊
