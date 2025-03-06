@@ -1,7 +1,7 @@
 ![Banner](./github-header-image.png)
 
 ## 💻 Tecnologías y herramientas
-- ⚡ Python, Java, PostgreSQL
+- ⚡ Python, Java, PostgreSQL, MySQL
 - 🔧 Linux (Linux Mint)
 - 🎮 Análisis de datos
 
