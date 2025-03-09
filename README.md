@@ -1,6 +1,12 @@
 ![Banner](./Banner.png)
 ## About me
 
+## My Skills
+- **Programming Languages**
+<p align="center">
+    <img width="30px" src="./python.svg" /> 
+  </a>
+</p>
 
 ## 🪄 Tecnologías y herramientas
 - ⚡ Python, Java, PostgreSQL, MySQL
