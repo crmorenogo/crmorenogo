@@ -57,6 +57,8 @@ Systems and Computer Engineering student at Universidad Nacional de Colombia.
   </a>
 </p>
 
+## My Stats 🪄
+
 <!-- Copy-paste in your Readme.md file -->
 <p align="center">
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=128399569" target="_blank" style="display: block" align="center">
