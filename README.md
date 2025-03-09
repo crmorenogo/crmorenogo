@@ -1,4 +1,4 @@
-![Banner](./github-header-image.png)
+![Banner](./Group 19.png)
 
 ## 🪄 Tecnologías y herramientas
 - ⚡ Python, Java, PostgreSQL, MySQL
