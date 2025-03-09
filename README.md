@@ -57,12 +57,6 @@ Systems and Computer Engineering student at Universidad Nacional de Colombia.
   </a>
 </p>
 
-## 💎 Proyectos Destacados
--  **Ponderati** A group project where students can leave comments and ratings about teachers, allowing others to know their strengths and weaknesses before enrolling in their courses. In this way, students can make more informed decisions when choosing their teachers.
-
-
-¡Gracias por visitar mi perfil! 😊
-
 <!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=128399569" target="_blank" style="display: block" align="center">
@@ -80,3 +74,19 @@ Systems and Computer Engineering student at Universidad Nacional de Colombia.
 ![Graphic](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crmorenogo&layout=compact&theme=monokai&align=center)
 
 </p>
+
+## 💎 Proyectos Destacados
+-  **Ponderati** A group project where students can leave comments and ratings about teachers, allowing others to know their strengths and weaknesses before enrolling in their courses. In this way, students can make more informed decisions when choosing their teachers.
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-org-participants-roles-ratio?owner_id=877103730&period=past_28_days" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-participants-roles-ratio/thumbnail.png?owner_id=877103730&period=past_28_days&image_size=5x5&color_scheme=dark" width="465" height="auto">
+    <img alt="Participants roles of pingcap" src="https://next.ossinsight.io/widgets/official/compose-org-participants-roles-ratio/thumbnail.png?owner_id=877103730&period=past_28_days&image_size=5x5&color_scheme=light" width="465" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+¡Gracias por visitar mi perfil! 😊
