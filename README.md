@@ -1,6 +1,5 @@
-<p align="center">
-    ![Banner](./banner.png)
-</p>
+![Banner](./banner.png)
+
     
 ## About me
 Systems and Computer Engineering student at Universidad Nacional de Colombia.
