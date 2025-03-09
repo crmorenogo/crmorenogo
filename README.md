@@ -38,6 +38,6 @@
 
 <p align="center">
 
-![Graphic](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSOR03&layout=compact&theme=tokyonight&align=center)
+![Graphic](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crmorenogo&layout=compact&theme=tokyonight&align=center)
 
 </p>
