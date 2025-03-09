@@ -1,5 +1,5 @@
 <p align="center">
-![Banner](./banner.png)
+    ![Banner](./banner.png)
 </p>
     
 ## About me
