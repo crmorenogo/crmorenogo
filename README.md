@@ -1,4 +1,4 @@
-![Banner](./Banner.png)
+![Banner](./Banner.jpg)
 ## About me
 Systems and Computer Engineering student at Universidad Nacional de Colombia.
 
