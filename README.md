@@ -20,6 +20,7 @@ Systems and Computer Engineering student at Universidad Nacional de Colombia.
 
 - **Back-end**
 <p>
+    <img width="48px" src="./NodeJS-Dark.svg" />
     <img width="48px" src="./ExpressJS-Dark.svg" />
   </a>
 </p>
@@ -28,6 +29,13 @@ Systems and Computer Engineering student at Universidad Nacional de Colombia.
 <p>
     <img width="48px" src="./PostgreSQL-Dark.svg" />
     <img width="48px" src="./MongoDB.svg" />
+  </a>
+</p>
+
+- **Operating system**
+<p>
+    <img width="48px" src="./Windows-Dark.svg" />
+    <img width="48px" src="./Mint-Dark.svg" />
   </a>
 </p>
 
