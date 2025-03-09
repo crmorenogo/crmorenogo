@@ -1,6 +1,6 @@
 ![Banner](./Banner.png)
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px alt="Unicorn" src="./icon.gif" />
 
 ## <img src="./icon.gif" width="30px">&nbsp;***About me***
 
