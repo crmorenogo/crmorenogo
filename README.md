@@ -1,4 +1,6 @@
 ![Banner](./Banner.png)
+## About me
+
 
 ## 🪄 Tecnologías y herramientas
 - ⚡ Python, Java, PostgreSQL, MySQL
@@ -33,3 +35,9 @@
 </a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+<p align="center">
+
+![Graphic](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSOR03&layout=compact&theme=tokyonight&align=center)
+
+</p>
