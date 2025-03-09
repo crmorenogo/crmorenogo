@@ -1,4 +1,4 @@
-![Banner](./Group 19.png)
+![Banner](./Banner.png)
 
 ## 🪄 Tecnologías y herramientas
 - ⚡ Python, Java, PostgreSQL, MySQL
