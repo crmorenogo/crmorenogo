@@ -70,14 +70,11 @@ Systems and Computer Engineering student at Universidad Nacional de Colombia.
 
 
 <p align="center">
-
-![Graphic](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crmorenogo&layout=compact&theme=dracula&align=center)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crmorenogo&layout=compact&theme=dracula" alt="Graphic" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=crmorenogo&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  
 </p>
 
 ## 💎 Proyectos Destacados
