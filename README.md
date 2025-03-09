@@ -4,7 +4,7 @@
 ## My Skills
 - **Programming Languages**
 <p align="center">
-    <img width="30px" src="./python.svg" /> 
+    <img width="30px" src="./Python-Dark.svg" /> 
   </a>
 </p>
 
