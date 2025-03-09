@@ -4,47 +4,47 @@
 ## My Skills
 - **Programming Languages**
 <p align="center">
-    <img width="30px" src="./Python-Dark.svg" /> 
+    <img width="48px" src="./Python-Dark.svg" /> 
   </a>
 </p>
 
 - **Front-end**
 <p align="center">
-    <img width="30px" src="./HTML.svg" />
-    <img width="30px" src="./CSS.svg" />
-    <img width="30px" src="./JavaScript.svg" />
-    <img width="30px" src="./React.svg" />
+    <img width="48px" src="./HTML.svg" />
+    <img width="48px" src="./CSS.svg" />
+    <img width="48px" src="./JavaScript.svg" />
+    <img width="48px" src="./React-Dark.svg" />
   </a>
 </p>
 
 - **Back-end**
 <p align="center">
-    <img width="30px" src="./ExpressJS-Dark.svg" />
+    <img width="48px" src="./ExpressJS-Dark.svg" />
   </a>
 </p>
 
 - **Database**
 <p align="center">
-    <img width="30px" src="./PostgreSQL-Dark.svg" />
-    <img width="30px" src="./MongoDB.svg" />
+    <img width="48px" src="./PostgreSQL-Dark.svg" />
+    <img width="48px" src="./MongoDB.svg" />
   </a>
 </p>
 
 - **System, Networking & Deployment**
 <p align="center">
-    <img width="30px" src="./Git.svg" />
+    <img width="48px" src="./Git.svg" />
   </a>
 </p>
 
 - **Terminal Scripts**
 <p align="center">
-    <img width="30px" src="./NeoVim-Dark.svg" />
+    <img width="48px" src="./NeoVim-Dark.svg" />
   </a>
 </p>
 
 - **Tools**
 <p align="center">
-    <img width="30px" src="./VSCode-Dark.svg" />
+    <img width="48px" src="./VSCode-Dark.svg" />
   </a>
 </p>
 
