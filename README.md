@@ -1,7 +1,7 @@
 ![Banner](./Banner.png)
 ## About me
 
-## My Skills
+## My Skills 🪄
 - **Programming Languages**
 <p align="center">
     <img width="48px" src="./Python-Dark.svg" /> 
@@ -47,11 +47,6 @@
     <img width="48px" src="./VSCode-Dark.svg" />
   </a>
 </p>
-
-## 🪄 Tecnologías y herramientas
-- ⚡ Python, Java, PostgreSQL, MySQL
-- 📟 Linux (Linux Mint)
-- 📈 Análisis de datos
 
 ## 💎 Proyectos Destacados
 - **📔 Ponderati** - Proyecto grupal donde los estudiantes pueden dejar comentarios y calificaciones sobre los profesores, permitiendo a otros conocer sus fortalezas y debilidades antes de inscribirse en sus cursos. De esta manera, los estudiantes pueden tomar decisiones más informadas al elegir a sus docentes.
