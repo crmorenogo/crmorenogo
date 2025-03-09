@@ -3,13 +3,13 @@
 
 ## My Skills 🪄
 - **Programming Languages**
-<p align="center">
+<p>
     <img width="48px" src="./Python-Dark.svg" /> 
   </a>
 </p>
 
 - **Front-end**
-<p align="center">
+<p>
     <img width="48px" src="./HTML.svg" />
     <img width="48px" src="./CSS.svg" />
     <img width="48px" src="./JavaScript.svg" />
@@ -18,32 +18,32 @@
 </p>
 
 - **Back-end**
-<p align="center">
+<p>
     <img width="48px" src="./ExpressJS-Dark.svg" />
   </a>
 </p>
 
 - **Database**
-<p align="center">
+<p>
     <img width="48px" src="./PostgreSQL-Dark.svg" />
     <img width="48px" src="./MongoDB.svg" />
   </a>
 </p>
 
 - **System, Networking & Deployment**
-<p align="center">
+<p>
     <img width="48px" src="./Git.svg" />
   </a>
 </p>
 
 - **Terminal Scripts**
-<p align="center">
+<p>
     <img width="48px" src="./NeoVim-Dark.svg" />
   </a>
 </p>
 
 - **Tools**
-<p align="center">
+<p>
     <img width="48px" src="./VSCode-Dark.svg" />
   </a>
 </p>
