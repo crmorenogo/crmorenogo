@@ -1,4 +1,7 @@
+<p align="center">
 ![Banner](./banner.png)
+</p>
+    
 ## About me
 Systems and Computer Engineering student at Universidad Nacional de Colombia.
 
@@ -83,15 +86,16 @@ Systems and Computer Engineering student at Universidad Nacional de Colombia.
 ## 💎 Proyectos Destacados
 -  **Ponderati** A group project where students can leave comments and ratings about teachers, allowing others to know their strengths and weaknesses before enrolling in their courses. In this way, students can make more informed decisions when choosing their teachers.
 
-<!-- Copy-paste in your Readme.md file -->
 
+<!-- Copy-paste in your Readme.md file -->
+<p align="center">
 <a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=877103730" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=877103730&image_size=auto&color_scheme=dark" width="815" height="auto">
     <img alt="Activity Trends of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=877103730&image_size=auto&color_scheme=light" width="815" height="auto">
   </picture>
 </a>
-
+</p>
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <p align=center>                           
