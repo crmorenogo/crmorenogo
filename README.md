@@ -71,7 +71,7 @@ Systems and Computer Engineering student at Universidad Nacional de Colombia.
 
 <p align="center">
 
-![Graphic](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crmorenogo&layout=compact&theme=tokyonicght&align=center)
+![Graphic](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crmorenogo&layout=compact&theme=tokyonight&align=center)
 
 </p>
 
