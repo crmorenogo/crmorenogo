@@ -75,7 +75,10 @@ Systems and Computer Engineering student at Universidad Nacional de Colombia.
 
 </p>
 
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username=crmorenogo&theme=dracula
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=crmorenogo&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  
+</p>
 
 ## 💎 Proyectos Destacados
 -  **Ponderati** A group project where students can leave comments and ratings about teachers, allowing others to know their strengths and weaknesses before enrolling in their courses. In this way, students can make more informed decisions when choosing their teachers.
