@@ -90,6 +90,6 @@ Systems and Computer Engineering student at Universidad Nacional de Colombia.
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <p align=center>                           
-  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=128399569" alt="Visitors">                     
+  [![Visits Badge](https://badges.strrl.dev/visits/crmorenogo/crmorenogo?style=for-the-badge&color=6E40F3)](#)                   
 </p>
 ¡Gracias por visitar mi perfil! 😊
