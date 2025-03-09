@@ -58,7 +58,7 @@ Systems and Computer Engineering student at Universidad Nacional de Colombia.
 </p>
 
 ## 💎 Proyectos Destacados
-- ** Ponderati** - Proyecto grupal donde los estudiantes pueden dejar comentarios y calificaciones sobre los profesores, permitiendo a otros conocer sus fortalezas y debilidades antes de inscribirse en sus cursos. De esta manera, los estudiantes pueden tomar decisiones más informadas al elegir a sus docentes.
+-  **Ponderati** A group project where students can leave comments and ratings about teachers, allowing others to know their strengths and weaknesses before enrolling in their courses. In this way, students can make more informed decisions when choosing their teachers.
 
 
 ¡Gracias por visitar mi perfil! 😊
