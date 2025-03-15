@@ -100,6 +100,6 @@ I am systems and Computer Engineering student at Universidad Nacional de Colombi
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <p align="center">
-  ![Visits Badge](https://img.shields.io/badge/dynamic/json?color=6E40F3&label=Visits&query=value&url=https://api.countapi.xyz/hit/crmorenogo/crmorenogo&style=for-the-badge)
+  ![Visits Badge]<img src="https://komarev.com/ghpvc/?username=crmorenogo&color=brightgreen" alt="watching_count" />
 </p>
 ¡Gracias por visitar mi perfil! 😊
