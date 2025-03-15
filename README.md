@@ -1,4 +1,4 @@
-![Banner](./banner2.png)
+![Banner](./banner2(1).png)
 
 ## <img src="./icon.gif" width="30px">&nbsp;***About me***
 
