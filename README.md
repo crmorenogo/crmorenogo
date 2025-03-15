@@ -87,10 +87,6 @@ I am systems and Computer Engineering student at Universidad Nacional de Colombi
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crmorenogo&layout=compact&theme=dracula" alt="Graphic" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crmorenogo&show_icons=true&theme=dracula" alt="Graphic" />
-</p>
-
 ## 💎 Proyectos Destacados
 -  **Ponderati** A group project where students can leave comments and ratings about teachers, allowing others to know their strengths and weaknesses before enrolling in their courses. In this way, students can make more informed decisions when choosing their teachers.
 
@@ -103,7 +99,7 @@ I am systems and Computer Engineering student at Universidad Nacional de Colombi
 </p>
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
-<p align=center>                           
-  [![Visits Badge](https://badges.strrl.dev/visits/crmorenogo/crmorenogo?style=for-the-badge&color=6E40F3)](#)                   
+<p align="center">
+  ![Visits Badge](https://img.shields.io/badge/dynamic/json?color=6E40F3&label=Visits&query=value&url=https://api.countapi.xyz/hit/crmorenogo/crmorenogo&style=for-the-badge)
 </p>
 ¡Gracias por visitar mi perfil! 😊
