@@ -1,4 +1,4 @@
-![Banner](./Banner2.jpg)
+![Banner](./Banner3.jpg)
 
 <!-- ## <img src="./icon.gif" width="30px">&nbsp;--> 
 ***About me***
