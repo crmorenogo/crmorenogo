@@ -1,6 +1,7 @@
-## <img src="./icon.gif" width="30px">&nbsp;***About me***
 
-<img align="right" width=300px alt="Unicorn" src="./icon.gif" />
+<!-- ## <img src="./icon.gif" width="30px">&nbsp;--> ***About me***
+
+<!--<img align="right" width=300px alt="Unicorn" src="./icon.gif" />-->
 
 I am systems and Computer Engineering student at Universidad Nacional de Colombia.
 * **I am interested in Web designing, Android development, and digital marketing**
