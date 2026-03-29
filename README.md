@@ -3,22 +3,22 @@
 <!-- ## <img src="./icon.gif" width="30px">&nbsp;--> 
 ***About me***
 <!--<img align="right" width=300px alt="Unicorn" src="./icon.gif" />-->
-Mi nombre es Cristian Moreno. Soy estudiante de Ingeniería de Sistemas y Computación de la Universidad Nacional de Colombia interesado en construir y entender sistemas inteligentes.
+My name is Cristian Moreno. I am a Systems and Computer Engineering student at the National University of Colombia, and I am interested in building and understanding intelligent systems.
 
-**Intereses**
+**Interests**
 - 🤖 Machine Learning
 - 👁️ Computer Vision
 - 📊 Data Science
 
-**Actualmente**
-- 🌱 Aprendiendo y profundizando en machine learning aplicado y computer vision
-- 🧪 Experimentando con modelos, datasets y pipelines de datos
-- 🛠️ Construyendo proyectos para aprender y probar ideas
+**Currently**
+- 🌱 Learning and delving deeper into applied machine learning and computer vision.
+- 🧪 Experimenting with models, datasets, and data pipelines.
+- 🛠️ Building projects to learn and test ideas.
 
-**Colaboración**
-- 👯 Me interesa colaborar en proyectos relacionados con machine learning, computer vision o data science.
-- ✔ Siempre estoy abierto a hablar sobre IA, datos o proyectos interesantes<br>
-- 📫 Reach out to me at: <a href="crmorenogo@unal.edu.co">crmorenogo@unal.edu.co</a>
+**Collaboration**
+- 👯 I’m interested in collaborating on projects related to machine learning, computer vision, or data science.
+- ✔ I’m always open to discussing AI, data, or interesting projects.
+- 📫 Reach out to me at: <a href="crmorenogo@unal.edu.co">crmorenogo@unal.edu.co</a>.
 
 ## My Skills 🪄
 - **Programming Languages**
