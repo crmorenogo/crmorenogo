@@ -1,5 +1,3 @@
-<img width="180px" src="./download.svg" /> 
-
 ![Banner](./Banner.jpg)
 
 <!-- ## <img src="./icon.gif" width="30px">&nbsp;--> 
