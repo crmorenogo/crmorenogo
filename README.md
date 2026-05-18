@@ -21,59 +21,7 @@ My name is Cristian Moreno. I am a Systems and Computer Engineering student at t
 - 📫 Reach out to me at: <a href="crmorenogo@unal.edu.co">crmorenogo@unal.edu.co</a>.
 
 ## My Skills 🪄
-- **Programming Languages**
-<p>
-    <img width="48px" src="./Python-Dark.svg" /> 
-  </a>
-</p>
 
-- **Front-end**
-<p>
-    <img width="48px" src="./HTML.svg" />
-    <img width="48px" src="./CSS.svg" />
-    <img width="48px" src="./JavaScript.svg" />
-    <img width="48px" src="./React-Dark.svg" />
-  </a>
-</p>
-
-- **Back-end**
-<p>
-    <img width="48px" src="./NodeJS-Dark.svg" />
-    <img width="48px" src="./ExpressJS-Dark.svg" />
-  </a>
-</p>
-
-- **Database**
-<p>
-    <img width="48px" src="./PostgreSQL-Dark.svg" />
-    <img width="48px" src="./MongoDB.svg" />
-  </a>
-</p>
-
-- **Operating system**
-<p>
-    <img width="48px" src="./Windows-Dark.svg" />
-    <img width="48px" src="./Mint-Dark.svg" />
-  </a>
-</p>
-
-- **System, Networking & Deployment**
-<p>
-    <img width="48px" src="./Git.svg" />
-  </a>
-</p>
-
-- **Terminal Scripts**
-<p>
-    <img width="48px" src="./NeoVim-Dark.svg" />
-  </a>
-</p>
-
-- **Tools**
-<p>
-    <img width="48px" src="./VSCode-Dark.svg" />
-  </a>
-</p>
 
 ## My Stats 🪄
 
