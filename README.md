@@ -1,4 +1,4 @@
-![Banner](./Banner.jpg)
+![Banner](./Perceptrón.png)
 
 <!-- ## <img src="./icon.gif" width="30px">&nbsp;--> 
 ***About me***
